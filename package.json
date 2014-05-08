@@ -14,7 +14,7 @@
     "url": "https://github.com/bower/decompress-zip.git"
   },
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=0.10.0"
   },
   "keywords": [
     "zip",
@@ -55,7 +55,6 @@
     "mkpath": "~0.1.0",
     "binary": "~0.3.0",
     "touch": "0.0.2",
-    "readable-stream": "~1.1.8",
     "nopt": "~2.2.0"
   }
 }
